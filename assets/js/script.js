@@ -29,7 +29,7 @@ slider.noUiSlider.on('update', function (values) {
 
 imdbInput.addEventListener('change', function () {
   slider.noUiSlider.set([null, this.value]);
-}); 
+});  
 
 
 

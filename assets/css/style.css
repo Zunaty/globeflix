@@ -28,7 +28,7 @@ body .container .our-box.box {
    border: 1px solid var(--primary-color);
    border-radius: 3px;
    background: #fff;
-   color: #444;
+   color: #444; 
    padding: 1px 6px;
    text-align: center;
    white-space: nowrap;
