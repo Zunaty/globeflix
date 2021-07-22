@@ -9,7 +9,7 @@ noUiSlider.create(slider, {
     connect: true,
     // tool tips to display current value
     tooltips: true,
-    
+      
     range: {
         'min': [0],
         
