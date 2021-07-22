@@ -11,6 +11,7 @@ body .container .our-box.box {
     box-shadow: none;
 }
 
+
 /* targeting slider options and overriding default styles  */
  body .container .noUi-touch-area {
    height: 100%;
